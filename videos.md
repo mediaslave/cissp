@@ -16,3 +16,7 @@
 # LinkedIn - Paid Training
 
 - [CISSP Cert Prep 2021 - Mike Chapple](https://www.linkedin.com/learning/cissp-cert-prep-2021-1-security-and-risk-management "CISSP Cert Prep 2021 - Mike Chapple")
+
+# Discord
+
+- [Discord Certification Station Invite](https://discord.com/invite/YzyBNNSHDZ "Discord Certification Station Invitee")
